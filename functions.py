@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from Ipython.display import clear_output
+from IPython.display import clear_output
 import numpy as np
 import torch
 
