@@ -52,9 +52,9 @@ def plot_history(history):
     plt.legend(loc='best')
 
 
-def save_models(path, **nets):
+def save_models(path, nets):
     for net in nets.keys():
-        torch.save(nets[net].state_dict(), path + f"/{net}.pth")
+        torch.save(nets[net].state_dict(), path + f"{net}.pth")
 
 def set_requires_grad(nets, requires_grad=False):
         """Set requies_grad=Fasle for all the networks to avoid unnecessary computations
