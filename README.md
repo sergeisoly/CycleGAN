@@ -16,7 +16,7 @@ Some results. Generally CycleGAN can not transfer shape very well but some image
 
 <img src="samples/X2Y_14.jpg" width="600"/>
 
-**Generating International Style from Gothic **
+**Generating International Style from Gothic**
 
 
 <img src="samples/Y2X_10.jpg" width="600"/>
