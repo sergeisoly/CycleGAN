@@ -1,6 +1,7 @@
 # Architecture style transfer with CycleGAN
 
 Implementation of CycleGAN paper https://arxiv.org/pdf/1703.10593.pdf
+
 Dataset of different architecture style was taken from https://sites.google.com/site/zhexuutssjtu/projects/arch
 
 Training colab notebook https://colab.research.google.com/drive/1TDjd2JzM4QSLeimRSMlcrc17JXWkOsyz?usp=sharing
