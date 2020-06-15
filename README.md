@@ -8,6 +8,6 @@ Testing model https://colab.research.google.com/drive/1qnyEEgTdDnSzcuEAor8mjdKvR
 
 
 Some results. Generally CycleGAN can not transfer shape very well but some images look reasonable.
-Generating Gothic Style from International
-![Alt text](samples/X2Y_9.jpg?raw=true "Title")
+
+![Alt text](samples/X2Y_9.jpg?raw=true "Generating Gothic Style from International")
 
