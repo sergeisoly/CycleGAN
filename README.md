@@ -7,5 +7,7 @@ Training colab notebook https://colab.research.google.com/drive/1TDjd2JzM4QSLeim
 Testing model https://colab.research.google.com/drive/1qnyEEgTdDnSzcuEAor8mjdKvRfD06NFJ#scrollTo=7Btdym_hkWbO
 
 
-Some results. Generally CycleGAN can not transfer shape very well but some images look reeasonable.
+Some results. Generally CycleGAN can not transfer shape very well but some images look reasonable.
+Generating Gothic Style from International
+![Alt text](samples/X2Y_9.jpg?raw=true "Title")
 
